@@ -6,7 +6,7 @@
 
 ### Rotation
 
-## Kinematic
+## Kinematics
 
 ### Forward Kinematics
 
